@@ -15,15 +15,15 @@
   justify-content: space-evenly;
 }
 #home {
-  margin-left: 280px;
+  margin-left: 220px;
 }
 .logo {
-  margin-left: 25px;
+  margin-left: 35px;
   margin-top: 30px;
 }
 .h {
   color: rgb(169, 162, 162);
-  padding: 30px;
+  padding: 35px;
 }
 .h:hover {
   color: white;
